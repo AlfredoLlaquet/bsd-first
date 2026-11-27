@@ -60,3 +60,6 @@ For the badge alone, use this line.
 The badge artwork is available under **CC0 1.0 Universal**. You can copy it, change it, and redistribute it, including commercially, without asking permission or giving credit. [License text](./LICENSE) · [CC0 summary](https://creativecommons.org/publicdomain/zero/1.0/)
 
 Any saucepan demanding royalties is definitely welcome to plead its case before the High Court of Breakfast. The jury is twelve poached eggs in little wigs.
+
+Created and directed by **Alfredo Llaquet-Alsina**. Implemented by **ChatGPT**.
+
